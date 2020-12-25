@@ -1,0 +1,278 @@
+Province/State,Country/Region,Lat,Long,12/25/20
+P.A. Trento,isolamento_domiciliare,0.0,0.0,1422
+Lombardia,totale_ospedalizzati,0.0,0.0,4498
+Toscana,totale_ospedalizzati,0.0,0.0,1009
+Campania,totale_positivi,0.0,0.0,80547
+Asti,totale_casi_provincia,0.0,0.0,9535
+Veneto,terapia_intensiva,0.0,0.0,346
+Cagliari,totale_casi_provincia,0.0,0.0,6678
+Valle d'Aosta,ricoverati_con_sintomi,0.0,0.0,84
+Friuli Venezia Giulia,isolamento_domiciliare,0.0,0.0,11458
+Umbria,tamponi,0.0,0.0,
+Veneto,isolamento_domiciliare,0.0,0.0,84457
+Abruzzo,totale_ospedalizzati,0.0,0.0,469
+Savona,totale_casi_provincia,0.0,0.0,7175
+Fermo,totale_casi_provincia,0.0,0.0,4542
+Potenza,totale_casi_provincia,0.0,0.0,6658
+Veneto,totale_ospedalizzati,0.0,0.0,2928
+Sicilia,ricoverati_con_sintomi,0.0,0.0,995
+Venezia,totale_casi_provincia,0.0,0.0,35397
+Emilia-Romagna,deceduti,0.0,0.0,7400
+Piemonte,totale_casi,0.0,0.0,
+Lombardia,totale_positivi,0.0,0.0,58710
+Siracusa,totale_casi_provincia,0.0,0.0,5149
+P.A. Bolzano,totale_positivi,0.0,0.0,10564
+Friuli Venezia Giulia,terapia_intensiva,0.0,0.0,54
+Emilia-Romagna,totale_casi,0.0,0.0,
+Reggio di Calabria,totale_casi_provincia,0.0,0.0,8384
+Lombardia,isolamento_domiciliare,0.0,0.0,54212
+Lazio,totale_casi,0.0,0.0,
+Firenze,totale_casi_provincia,0.0,0.0,32949
+Brindisi,totale_casi_provincia,0.0,0.0,6174
+Valle d'Aosta,terapia_intensiva,0.0,0.0,4
+Abruzzo,tamponi,0.0,0.0,
+Liguria,terapia_intensiva,0.0,0.0,64
+P.A. Trento,totale_casi,0.0,0.0,
+Piemonte,tamponi,0.0,0.0,
+Massa Carrara,totale_casi_provincia,0.0,0.0,7565
+Lecco,totale_casi_provincia,0.0,0.0,13014
+Verona,totale_casi_provincia,0.0,0.0,45557
+Valle d'Aosta,tamponi,0.0,0.0,
+Toscana,deceduti,0.0,0.0,3558
+Liguria,totale_ospedalizzati,0.0,0.0,727
+Padova,totale_casi_provincia,0.0,0.0,42713
+Roma,totale_casi_provincia,0.0,0.0,112340
+Perugia,totale_casi_provincia,0.0,0.0,20333
+Sardegna,totale_positivi,0.0,0.0,16320
+Pisa,totale_casi_provincia,0.0,0.0,16468
+Molise,deceduti,0.0,0.0,179
+Puglia,terapia_intensiva,0.0,0.0,166
+Chieti,totale_casi_provincia,0.0,0.0,6935
+Fuori Regione / Provincia Autonoma,totale_casi_provincia,0.0,0.0,280,328,358,0,2016,576,3352,1221,5041,1359,52,0,0,1031,491,0,0,555,1169,236,3392
+Pavia,totale_casi_provincia,0.0,0.0,24064
+Marche,totale_positivi,0.0,0.0,9567
+Sardegna,totale_ospedalizzati,0.0,0.0,527
+P.A. Bolzano,tamponi,0.0,0.0,
+Nuoro,totale_casi_provincia,0.0,0.0,5945
+Macerata,totale_casi_provincia,0.0,0.0,8658
+Veneto,totale_casi,0.0,0.0,
+Sicilia,totale_ospedalizzati,0.0,0.0,1169
+Valle d'Aosta,totale_ospedalizzati,0.0,0.0,88
+P.A. Bolzano,deceduti,0.0,0.0,711
+Bolzano,totale_casi_provincia,0.0,0.0,28722
+Aosta,totale_casi_provincia,0.0,0.0,6882
+Ancona,totale_casi_provincia,0.0,0.0,10930
+Grosseto,totale_casi_provincia,0.0,0.0,4128
+Vicenza,totale_casi_provincia,0.0,0.0,40516
+L'Aquila,totale_casi_provincia,0.0,0.0,10808
+Calabria,totale_positivi,0.0,0.0,8529
+Campania,totale_casi,0.0,0.0,
+Calabria,ricoverati_con_sintomi,0.0,0.0,270
+Valle d'Aosta,totale_casi,0.0,0.0,
+Vibo Valentia,totale_casi_provincia,0.0,0.0,1358
+Bologna,totale_casi_provincia,0.0,0.0,36638
+Liguria,totale_positivi,0.0,0.0,5669
+Rovigo,totale_casi_provincia,0.0,0.0,6845
+Valle d'Aosta,totale_positivi,0.0,0.0,428
+Belluno,totale_casi_provincia,0.0,0.0,13840
+Catanzaro,totale_casi_provincia,0.0,0.0,3177
+Trento,totale_casi_provincia,0.0,0.0,20839
+Imperia,totale_casi_provincia,0.0,0.0,6182
+Molise,totale_ospedalizzati,0.0,0.0,59
+Emilia-Romagna,terapia_intensiva,0.0,0.0,206
+Abruzzo,terapia_intensiva,0.0,0.0,34
+Sud Sardegna,totale_casi_provincia,0.0,0.0,4828
+Campania,ricoverati_con_sintomi,0.0,0.0,1449
+Reggio nell'Emilia,totale_casi_provincia,0.0,0.0,22716
+Rieti,totale_casi_provincia,0.0,0.0,4752
+Marche,totale_casi,0.0,0.0,
+Abruzzo,deceduti,0.0,0.0,1162
+Toscana,terapia_intensiva,0.0,0.0,166
+Napoli,totale_casi_provincia,0.0,0.0,112856
+Parma,totale_casi_provincia,0.0,0.0,12319
+P.A. Trento,ricoverati_con_sintomi,0.0,0.0,306
+Sardegna,deceduti,0.0,0.0,701
+Palermo,totale_casi_provincia,0.0,0.0,24413
+Latina,totale_casi_provincia,0.0,0.0,13779
+Lazio,totale_positivi,0.0,0.0,76074
+Lombardia,deceduti,0.0,0.0,24782
+Piemonte,terapia_intensiva,0.0,0.0,214
+Toscana,ricoverati_con_sintomi,0.0,0.0,843
+Monza e della Brianza,totale_casi_provincia,0.0,0.0,47694
+Basilicata,ricoverati_con_sintomi,0.0,0.0,87
+Campania,terapia_intensiva,0.0,0.0,102
+Emilia-Romagna,tamponi,0.0,0.0,
+Liguria,deceduti,0.0,0.0,2842
+Isernia,totale_casi_provincia,0.0,0.0,2200
+Biella,totale_casi_provincia,0.0,0.0,6633
+Teramo,totale_casi_provincia,0.0,0.0,9261
+Trapani,totale_casi_provincia,0.0,0.0,5725
+Molise,totale_positivi,0.0,0.0,2296
+Ravenna,totale_casi_provincia,0.0,0.0,11809
+Marche,isolamento_domiciliare,0.0,0.0,9109
+P.A. Trento,terapia_intensiva,0.0,0.0,49
+Umbria,totale_positivi,0.0,0.0,3546
+Genova,totale_casi_provincia,0.0,0.0,34543
+Sardegna,terapia_intensiva,0.0,0.0,43
+Abruzzo,totale_casi,0.0,0.0,
+Molise,totale_casi,0.0,0.0,
+Agrigento,totale_casi_provincia,0.0,0.0,3723
+Basilicata,isolamento_domiciliare,0.0,0.0,5862
+Gorizia,totale_casi_provincia,0.0,0.0,5646
+Sicilia,totale_casi,0.0,0.0,
+Como,totale_casi_provincia,0.0,0.0,33246
+Salerno,totale_casi_provincia,0.0,0.0,24761
+Frosinone,totale_casi_provincia,0.0,0.0,12914
+Verbano-Cusio-Ossola,totale_casi_provincia,0.0,0.0,6491
+Veneto,deceduti,0.0,0.0,5953
+Calabria,isolamento_domiciliare,0.0,0.0,8238
+Abruzzo,totale_positivi,0.0,0.0,11867
+Friuli Venezia Giulia,totale_positivi,0.0,0.0,12084
+Umbria,isolamento_domiciliare,0.0,0.0,3270
+Milano,totale_casi_provincia,0.0,0.0,170922
+Toscana,totale_casi,0.0,0.0,
+Basilicata,totale_positivi,0.0,0.0,5956
+Oristano,totale_casi_provincia,0.0,0.0,2388
+Basilicata,deceduti,0.0,0.0,240
+Marche,totale_ospedalizzati,0.0,0.0,458
+Molise,tamponi,0.0,0.0,
+Campania,deceduti,0.0,0.0,2670
+Caltanissetta,totale_casi_provincia,0.0,0.0,3657
+Varese,totale_casi_provincia,0.0,0.0,50483
+Foggia,totale_casi_provincia,0.0,0.0,18850
+Catania,totale_casi_provincia,0.0,0.0,26452
+Prato,totale_casi_provincia,0.0,0.0,10274
+Friuli Venezia Giulia,totale_casi,0.0,0.0,
+Pescara,totale_casi_provincia,0.0,0.0,6993
+Marche,tamponi,0.0,0.0,
+Molise,ricoverati_con_sintomi,0.0,0.0,52
+Friuli Venezia Giulia,totale_ospedalizzati,0.0,0.0,626
+Piemonte,totale_positivi,0.0,0.0,31497
+Lecce,totale_casi_provincia,0.0,0.0,6649
+Basilicata,totale_casi,0.0,0.0,
+Bari,totale_casi_provincia,0.0,0.0,33051
+Piemonte,ricoverati_con_sintomi,0.0,0.0,3029
+Umbria,totale_ospedalizzati,0.0,0.0,276
+Arezzo,totale_casi_provincia,0.0,0.0,10408
+Marche,terapia_intensiva,0.0,0.0,60
+Puglia,totale_casi,0.0,0.0,
+Liguria,tamponi,0.0,0.0,
+Calabria,tamponi,0.0,0.0,
+Toscana,isolamento_domiciliare,0.0,0.0,10260
+Avellino,totale_casi_provincia,0.0,0.0,8729
+Rimini,totale_casi_provincia,0.0,0.0,13624
+Lodi,totale_casi_provincia,0.0,0.0,10436
+Sardegna,totale_casi,0.0,0.0,
+Umbria,terapia_intensiva,0.0,0.0,36
+In fase di definizione/aggiornamento,totale_casi_provincia,0.0,0.0,160,0,0,397,929,0,21,1862,8272,0,0,0,0,1595,81,0,0,0,0,12,538
+Benevento,totale_casi_provincia,0.0,0.0,4503
+Ferrara,totale_casi_provincia,0.0,0.0,8570
+Piemonte,totale_ospedalizzati,0.0,0.0,3243
+Puglia,totale_ospedalizzati,0.0,0.0,1579
+Campania,isolamento_domiciliare,0.0,0.0,78996
+Umbria,totale_casi,0.0,0.0,
+Sassari,totale_casi_provincia,0.0,0.0,10037
+Marche,ricoverati_con_sintomi,0.0,0.0,398
+Calabria,totale_casi,0.0,0.0,
+Lazio,deceduti,0.0,0.0,3489
+Puglia,totale_positivi,0.0,0.0,53589
+Barletta-Andria-Trani,totale_casi_provincia,0.0,0.0,9899
+Lombardia,ricoverati_con_sintomi,0.0,0.0,3976
+Puglia,deceduti,0.0,0.0,2310
+Abruzzo,isolamento_domiciliare,0.0,0.0,11398
+Lucca,totale_casi_provincia,0.0,0.0,12229
+Sardegna,isolamento_domiciliare,0.0,0.0,15793
+Cosenza,totale_casi_provincia,0.0,0.0,6855
+Cremona,totale_casi_provincia,0.0,0.0,14237
+Molise,terapia_intensiva,0.0,0.0,7
+Sicilia,totale_positivi,0.0,0.0,33232
+Sicilia,isolamento_domiciliare,0.0,0.0,32063
+Udine,totale_casi_provincia,0.0,0.0,21020
+Umbria,deceduti,0.0,0.0,597
+Sardegna,tamponi,0.0,0.0,
+Lazio,isolamento_domiciliare,0.0,0.0,73118
+Novara,totale_casi_provincia,0.0,0.0,15113
+Liguria,ricoverati_con_sintomi,0.0,0.0,663
+Umbria,ricoverati_con_sintomi,0.0,0.0,240
+Enna,totale_casi_provincia,0.0,0.0,3106
+Siena,totale_casi_provincia,0.0,0.0,4782
+Emilia-Romagna,isolamento_domiciliare,0.0,0.0,56063
+Piacenza,totale_casi_provincia,0.0,0.0,14327
+Lazio,terapia_intensiva,0.0,0.0,290
+Valle d'Aosta,deceduti,0.0,0.0,371
+Sondrio,totale_casi_provincia,0.0,0.0,8315
+Veneto,ricoverati_con_sintomi,0.0,0.0,2582
+Puglia,ricoverati_con_sintomi,0.0,0.0,1413
+Vercelli,totale_casi_provincia,0.0,0.0,7335
+Valle d'Aosta,isolamento_domiciliare,0.0,0.0,340
+Torino,totale_casi_provincia,0.0,0.0,101997
+Caserta,totale_casi_provincia,0.0,0.0,34036
+Friuli Venezia Giulia,deceduti,0.0,0.0,1534
+Molise,isolamento_domiciliare,0.0,0.0,2237
+Bergamo,totale_casi_provincia,0.0,0.0,27891
+Campobasso,totale_casi_provincia,0.0,0.0,4101
+Piemonte,deceduti,0.0,0.0,7755
+P.A. Bolzano,terapia_intensiva,0.0,0.0,19
+Liguria,totale_casi,0.0,0.0,
+P.A. Trento,totale_ospedalizzati,0.0,0.0,355
+Ragusa,totale_casi_provincia,0.0,0.0,6724
+Sicilia,terapia_intensiva,0.0,0.0,174
+Mantova,totale_casi_provincia,0.0,0.0,15616
+Lazio,tamponi,0.0,0.0,
+Matera,totale_casi_provincia,0.0,0.0,3461
+Puglia,isolamento_domiciliare,0.0,0.0,52010
+P.A. Trento,deceduti,0.0,0.0,892
+Calabria,deceduti,0.0,0.0,441
+Emilia-Romagna,totale_ospedalizzati,0.0,0.0,2917
+P.A. Trento,totale_positivi,0.0,0.0,1777
+Campania,tamponi,0.0,0.0,
+Toscana,totale_positivi,0.0,0.0,11269
+Lombardia,terapia_intensiva,0.0,0.0,522
+Alessandria,totale_casi_provincia,0.0,0.0,17040
+Livorno,totale_casi_provincia,0.0,0.0,8442
+Terni,totale_casi_provincia,0.0,0.0,6475
+Sicilia,deceduti,0.0,0.0,2256
+Treviso,totale_casi_provincia,0.0,0.0,45994
+Calabria,terapia_intensiva,0.0,0.0,21
+Basilicata,tamponi,0.0,0.0,
+Sicilia,tamponi,0.0,0.0,
+Piemonte,isolamento_domiciliare,0.0,0.0,28254
+Pesaro e Urbino,totale_casi_provincia,0.0,0.0,8825
+Friuli Venezia Giulia,ricoverati_con_sintomi,0.0,0.0,572
+P.A. Bolzano,isolamento_domiciliare,0.0,0.0,10398
+Sardegna,ricoverati_con_sintomi,0.0,0.0,484
+P.A. Bolzano,totale_casi,0.0,0.0,
+Marche,deceduti,0.0,0.0,1516
+Viterbo,totale_casi_provincia,0.0,0.0,8509
+Emilia-Romagna,ricoverati_con_sintomi,0.0,0.0,2711
+Lombardia,tamponi,0.0,0.0,
+Veneto,totale_positivi,0.0,0.0,87385
+P.A. Bolzano,ricoverati_con_sintomi,0.0,0.0,147
+Cuneo,totale_casi_provincia,0.0,0.0,26605
+Campania,totale_ospedalizzati,0.0,0.0,1551
+Veneto,tamponi,0.0,0.0,
+Modena,totale_casi_provincia,0.0,0.0,29053
+Trieste,totale_casi_provincia,0.0,0.0,10018
+La Spezia,totale_casi_provincia,0.0,0.0,7988
+P.A. Bolzano,totale_ospedalizzati,0.0,0.0,166
+Forlì-Cesena,totale_casi_provincia,0.0,0.0,11289
+Messina,totale_casi_provincia,0.0,0.0,9648
+Lazio,ricoverati_con_sintomi,0.0,0.0,2666
+Abruzzo,ricoverati_con_sintomi,0.0,0.0,435
+Toscana,tamponi,0.0,0.0,
+Crotone,totale_casi_provincia,0.0,0.0,2146
+Lazio,totale_ospedalizzati,0.0,0.0,2956
+Basilicata,totale_ospedalizzati,0.0,0.0,94
+Basilicata,terapia_intensiva,0.0,0.0,7
+P.A. Trento,tamponi,0.0,0.0,
+Liguria,isolamento_domiciliare,0.0,0.0,4942
+Lombardia,totale_casi,0.0,0.0,
+Ascoli Piceno,totale_casi_provincia,0.0,0.0,4996
+Calabria,totale_ospedalizzati,0.0,0.0,291
+Taranto,totale_casi_provincia,0.0,0.0,10479
+Brescia,totale_casi_provincia,0.0,0.0,40652
+Emilia-Romagna,totale_positivi,0.0,0.0,58980
+Pistoia,totale_casi_provincia,0.0,0.0,10355
+Pordenone,totale_casi_provincia,0.0,0.0,10039
+Puglia,tamponi,0.0,0.0,
+Friuli Venezia Giulia,tamponi,0.0,0.0,
